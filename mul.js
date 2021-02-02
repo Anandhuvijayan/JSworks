@@ -1,3 +1,3 @@
-var x = 5;
-var y = 2;
-var z = x * y;
+ function mul(x,y){
+  return x * y;
+ } mul(5,7);
